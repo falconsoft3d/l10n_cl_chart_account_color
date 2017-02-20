@@ -30,7 +30,7 @@
             """,
     'depends': ['base','product'],
     'data': [
-            'views/construction_view.xml',
+            'views/account_account_view.xml',
             ],
     'demo': [],
     'test': [],
